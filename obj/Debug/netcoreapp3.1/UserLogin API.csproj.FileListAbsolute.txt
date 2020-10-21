@@ -1,0 +1,31 @@
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\UserLogin API.exe
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\obj\Debug\netcoreapp3.1\UserLogin API.csprojAssemblyReference.cache
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\obj\Debug\netcoreapp3.1\UserLogin API.AssemblyInfoInputs.cache
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\obj\Debug\netcoreapp3.1\UserLogin API.AssemblyInfo.cs
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\obj\Debug\netcoreapp3.1\UserLogin API.RazorTargetAssemblyInfo.cache
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\obj\Debug\netcoreapp3.1\staticwebassets\UserLogin API.StaticWebAssets.Manifest.cache
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\obj\Debug\netcoreapp3.1\staticwebassets\UserLogin API.StaticWebAssets.xml
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\obj\Debug\netcoreapp3.1\UserLogin API.csproj.CoreCompileInputs.cache
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\obj\Debug\netcoreapp3.1\UserLogin API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\obj\Debug\netcoreapp3.1\UserLogin API.csproj.CopyComplete
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\UserLogin API.deps.json
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\UserLogin API.runtimeconfig.json
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\UserLogin API.runtimeconfig.dev.json
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\UserLogin API.dll
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\UserLogin API.pdb
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\obj\Debug\netcoreapp3.1\UserLogin API.dll
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\obj\Debug\netcoreapp3.1\UserLogin API.pdb
+C:\Users\My pc\source\repos\UserLogin API\UserLogin API\obj\Debug\netcoreapp3.1\UserLogin API.genruntimeconfig.cache
